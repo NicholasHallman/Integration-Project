@@ -13,7 +13,7 @@ In this project, four devices were connected to a raspberry pi to demonstrate in
 
 ## Block Diagram
 
-[!Block Diagram]()
+![Block Diagram](https://raw.githubusercontent.com/NicholasHallman/Integration-Project/master/Block%20Diagram.png)
 
 ## Breakdown  
 ### Distance Sensor  
